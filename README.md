@@ -9,13 +9,15 @@
   <img align="left" alt="andarbech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andarbech&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </div>
 
+
 ### Connect with me:
+<div>
 [![website](./img/twitter-light.svg)](https://twitter.com/and_arb_ech#gh-light-mode-only)
+&nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/and_arb_ech#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arndresarboleda/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arndresarboleda/#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 ### Languages and technologies
 <div>
