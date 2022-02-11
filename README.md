@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3 and data science
 - ⚡ Fun fact: I love play chess and read Gabo Books
-###GitHub Stats
 <div>
   <summary>:zap: GitHub Stats</summary>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andarbech&layout=compact" alt="top-langs"/>
