@@ -3,15 +3,13 @@
 - 🥅 2022 Goals: Learn more about web3 and data science
 - ⚡ Fun fact: I love play chess and read Gabo Books.
 
-<div>
   <summary>:zap: GitHub Stats</summary>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andarbech&layout=compact" alt="top-langs"/>
+  &nbsp;&nbsp;
   <img align="left" alt="andarbech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andarbech&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</div>
 
 
 ### Connect with me:
-<div>
 [![website](./img/twitter-light.svg)](https://twitter.com/and_arb_ech#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/and_arb_ech#gh-dark-mode-only)
