@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Learn more about web3 and data science
 - ⚡ Fun fact: I love play chess and read Gabo Books
 ### Connect with me:
-
+<div>
   <summary>:zap: GitHub Stats</summary>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andarbech&layout=compact" alt="top-langs"/>
   <img align="left" alt="andarbech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andarbech&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</div>
 
 [![website](./img/twitter-light.svg)](https://twitter.com/and_arb_ech#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/and_arb_ech#gh-dark-mode-only)
@@ -65,30 +66,4 @@ Here are some ideas to get you started:
 ---
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/codeSTACKr/create-10k-nft-collection/issues/74) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🗣 Commented on [#73](https://github.com/codeSTACKr/create-10k-nft-collection/issues/73) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. 🗣 Commented on [#71](https://github.com/codeSTACKr/create-10k-nft-collection/issues/71) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. 🗣 Commented on [#69](https://github.com/codeSTACKr/create-10k-nft-collection/issues/69) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. ❗️ Closed issue [#69](https://github.com/codeSTACKr/create-10k-nft-collection/issues/69) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-<!--END_SECTION:activity-->
-
 </details>
-
-
-
-[twitter]: https://twitter.com/and_arb_ech
-[linkedin]:https://www.linkedin.com/in/arndresarboleda/
-
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-<!-- [twitter]: https://twitter.com/codeSTACKr -->
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-<!-- [linkedin]: https://linkedin.com/in/codeSTACKr -->
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
