@@ -17,9 +17,6 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arndresarboleda/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-<br/>
-<br/>
-
 ### Languages and technologies
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
