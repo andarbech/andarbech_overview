@@ -1,24 +1,8 @@
-### Hi there 👋
-
-<!--
-**andarbech/andarbech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Andres Arboleda 👋 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3 and data science
-- ⚡ Fun fact: I love play chess and read Gabo Books
+- ⚡ Fun fact: I love play chess and read Gabo Books.
+
 <div>
   <summary>:zap: GitHub Stats</summary>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andarbech&layout=compact" alt="top-langs"/>
@@ -26,16 +10,18 @@ Here are some ideas to get you started:
 </div>
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/arndresarboleda/ target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
+[![website](./img/twitter-light.svg)](https://twitter.com/and_arb_ech#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/and_arb_ech#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arndresarboleda/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arndresarboleda/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 <br/>
 <br/>
 
 ### Languages and technologies
-<div style="display: flex">
+<div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="css3"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title ="javascript"/> 
@@ -56,6 +42,8 @@ Here are some ideas to get you started:
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="40" title="Heroku" alt="Heroku"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" title="Firebase" alt="Firebase"/>
+    <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+    <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 </div>
 
 <br />
