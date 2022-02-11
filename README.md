@@ -26,12 +26,10 @@ Here are some ideas to get you started:
 </div>
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/and_arb_ech#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/and_arb_ech#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arndresarboleda/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arndresarboleda/#gh-dark-mode-only)
-&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arndresarboleda/ target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
 
 <br/>
 <br/>
