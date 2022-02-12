@@ -42,9 +42,7 @@
 
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andarbech&theme=chartreuse-dark"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=andarbech&theme=redical&hide_border=true&area=true"/>
-
  ![andarbech's github stats](https://github-readme-stats.vercel.app/api?username=andarbech&show_icons=true&theme=radical)             | ![andarbech GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andarbech&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andarbech&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=andarbech&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andarbech&langs_count=8&theme=radical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=andarbech&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
