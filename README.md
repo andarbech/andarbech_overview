@@ -3,7 +3,13 @@
 - 🥅 2022 Goals: Learn more about web3 and data science
 - ⚡ Fun fact: I love play chess and read Gabo Books.
 
-
+### <h2>Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+[![website](./img/twitter-light.svg)](https://twitter.com/and_arb_ech#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-dark.svg)](https://twitter.com/and_arb_ech#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arndresarboleda/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arndresarboleda/#gh-dark-mode-only)
 
 
 
@@ -36,6 +42,9 @@
 
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andarbech&layout=compact" alt="top-langs"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andarbech&theme=chartreuse-dark"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=andarbech&theme=redical&hide_border=true&area=true"/>
+
+ ![andarbech's github stats](https://github-readme-stats.vercel.app/api?username=andarbech&show_icons=true&theme=radical)             | ![andarbech GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andarbech&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andarbech&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=andarbech&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
