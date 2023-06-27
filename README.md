@@ -1,6 +1,6 @@
 # Hi there, I'm Andres Arboleda 👋 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3 and data science
+- 🥅 2023 Goals: Learn more about web3 and data science
 - ⚡ Fun fact: I love play chess and read Gabo Books.
 
 ### <h2>Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
